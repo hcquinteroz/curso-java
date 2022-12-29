@@ -6,3 +6,12 @@
 
 # Ignorar los videos comprimidos
 # *.zip
+
+# Ignorar los .class
+/out
+
+# Ignorar los archivos de configuración de IntelliJ IDEA
+.idea/
+
+# Ignorar archivo de configuración del proyecto
+CursoJava.iml
