@@ -1,5 +1,8 @@
 # Ignorar archivo .DS_Store
 .DS_Store
 
+# Ignorar el JDK
+/jdk-19.0.1.jdk
+
 # Ignorar los videos comprimidos
 # *.zip
