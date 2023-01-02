@@ -47,5 +47,10 @@ public class Primitivos {
         System.out.println("caracter = " + caracter);
         System.out.println("Tipo char corresponde en bytes a: " + Character.BYTES);
         System.out.println("Tipo char corresponde en bits a: " + Character.SIZE + "\n");
+        System.out.println("Valor máximo de un char: " + Character.MIN_VALUE);
+        System.out.println("Valor máximo de un char: " + Character.MAX_VALUE + "\n");
+
+        boolean datologico = true;
+        System.out.println("datoLogico = " + datologico);
     }
 }
